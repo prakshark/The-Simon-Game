@@ -1,3 +1,5 @@
 # The-Simon-Game
-## This a project basedon the famous Simon Game.
-## Completed using HTML, CSS, JavaScript and jQuery.
+## This a project based on the famous Simon Game.
+  - [Live Preview](https://prakshark.github.io/The-Simon-Game/)
+
+![Screenshot](./temp1.png)  
